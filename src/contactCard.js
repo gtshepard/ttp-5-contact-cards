@@ -3,7 +3,6 @@ import './App.css';
 import Label from './label.js'
 
 class ContactCard extends Component {
-
   constructor(props){
     super(props);
   }
